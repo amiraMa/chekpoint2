@@ -1,0 +1,38 @@
+.home{
+  background-color: black;
+  height:660px;
+  width:100%;
+  position:fixed;
+}
+.include{
+  width:100%;
+  height:620px;
+  background-color: grey;
+  margin-top:20px;
+
+
+
+}
+.title{
+  text-align:center;
+  color: #CCCC00;
+  margin-top:10px;
+  font-size:38px;
+}
+.Groupimage{
+  margin-left:60px;
+  display:flex;
+}
+.image{
+  margin-left :60px;
+  height: 400px;
+  width:330px;
+}
+.titleImage{
+  text-align:center;
+  font-size:25px;
+}
+.title2{
+  text-align: center;
+  color:#C8C8C8;
+}
